@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @seraphim98
-- 👀 I’m interested in Astronomy and Technology
-- 🌱 I’m currently learning C++
+- I am a software developer with a history of working in Cloud Development. 
 
 <!---
 seraphim98/seraphim98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
